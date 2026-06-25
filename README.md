@@ -23,3 +23,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 6. `6-string-formatter`
 * **Concepts applied:** Formatting strings by removing whitespace, changing text casing, and combining methods to create `camelCase` text.
+
+### 7. `7-string-transformer`
+* **Concepts applied:** Transforming strings by swapping specific words using `.replace()` and `.replaceAll()`, and duplicating text using the `.repeat()` method.
