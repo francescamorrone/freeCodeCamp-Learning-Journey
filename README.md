@@ -26,3 +26,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 7. `7-string-transformer`
 * **Concepts applied:** Transforming strings by swapping specific words using `.replace()` and `.replaceAll()`, and duplicating text using the `.repeat()` method.
+
+### 8. `8-logic-checker`
+* **Concepts applied:** Implementing conditional logic and controlling program flow using boolean variables, comparison operators, and `if`/`else` statements.
