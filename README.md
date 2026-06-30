@@ -29,3 +29,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 8. `8-logic-checker`
 * **Concepts applied:** Implementing conditional logic and controlling program flow using boolean variables, comparison operators, and `if`/`else` statements.
+
+### 9. `9-mathBot`
+* **Concepts applied:** Utilizing the built-in `Math` object to generate random numbers, round decimals, and determine minimum or maximum values.
