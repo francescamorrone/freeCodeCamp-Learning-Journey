@@ -35,3 +35,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 10. `10-fortune-teller`
 * **Concepts applied:** Combining random number generation with multiple conditional `if` statements to dynamically select and display a random output.
+
+### 11. `11-build-a-calculator`
+* **Concepts applied:** Defining reusable functions with parameters and `return` statements to perform arithmetic operations, while handling edge cases like division by zero using a ternary operator.
