@@ -41,3 +41,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 12. `12-email-masker`
 * **Concepts applied:** Combining string manipulation methods like `.indexOf()`, `.slice()`, and `.repeat()` within a function to obscure sensitive email data while preserving the domain.
+
+### 13. `13-loan-qualification-checker`
+* **Concepts applied:** Implementing `if...else if` statements and the logical AND (`&&`) operator within a function to evaluate multiple conditions simultaneously.
