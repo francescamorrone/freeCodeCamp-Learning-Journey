@@ -44,3 +44,7 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 13. `13-loan-qualification-checker`
 * **Concepts applied:** Implementing `if...else if` statements and the logical AND (`&&`) operator within a function to evaluate multiple conditions simultaneously.
+
+### 14. `14-celsius-to-fahrenheit-converter`
+* **Concepts applied:** Creating a reusable function that uses arithmetic operators to process numerical input, perform mathematical calculations, and `return` a converted value.
+* 
