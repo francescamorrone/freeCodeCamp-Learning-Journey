@@ -47,4 +47,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 14. `14-celsius-to-fahrenheit-converter`
 * **Concepts applied:** Creating a reusable function that uses arithmetic operators to process numerical input, perform mathematical calculations, and `return` a converted value.
-* 
+
+### 15. `15-counting-cards`
+* **Concepts applied:** Managing global state with increment/decrement operators and evaluating multiple conditions using the logical OR (`||`) operator to track and `return` dynamic data.
