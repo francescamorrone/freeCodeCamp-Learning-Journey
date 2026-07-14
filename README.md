@@ -53,3 +53,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 16. `16-leap-year-calculator`
 * **Concepts applied:** Combining the modulo operator (`%`) with complex logical expressions using AND (`&&`) and OR (`||`) to evaluate mathematical conditions.
+
+### 17. `17-truncate-string`
+* **Concepts applied:** Combining conditional logic based on string length with the `.slice()` method to conditionally truncate text and append an ellipsis.
