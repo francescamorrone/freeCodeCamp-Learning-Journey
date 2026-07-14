@@ -50,3 +50,6 @@ Below is a breakdown of the exercises contained in the `javascript-exercises` fo
 
 ### 15. `15-counting-cards`
 * **Concepts applied:** Managing global state with increment/decrement operators and evaluating multiple conditions using the logical OR (`||`) operator to track and `return` dynamic data.
+
+### 16. `16-leap-year-calculator`
+* **Concepts applied:** Combining the modulo operator (`%`) with complex logical expressions using AND (`&&`) and OR (`||`) to evaluate mathematical conditions.
